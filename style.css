@@ -1,0 +1,44 @@
+body { 
+background-attachment: fixed;
+background-position: center;
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+
+
+img { 
+border:0;
+}
+
+img.logo {
+max-width: 600px;
+}
+
+img.icon {
+width:239px;
+height:239px;
+}
+
+
+table {
+margin:auto;
+border-style: none;
+}
+
+table.center {
+width:100%;
+height:100%;
+}
+
+
+td.tb {
+text-align: center;
+vertical-align: top;
+width:100%;
+height:10%;
+}
+
+td.content {
+width:100%;
+height:80%%;
+}
